@@ -21,6 +21,7 @@ input{
     padding: 8px;
     border-radius: 2px;
     border: 1px solid #ccc;
+    margin-top: 4px;
 }
 /* everywhere else */
 * {
