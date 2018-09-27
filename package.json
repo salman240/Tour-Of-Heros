@@ -1,6 +1,11 @@
 {
   "name": "tour-of-heros",
   "version": "0.0.0",
+  "author": {
+    "name": "Salman Yousaf",
+    "email": "salmanyousaf240@gmail.com"
+  },
+  "description": "This is a Getting Started Tutorial available on angular.io website.",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
